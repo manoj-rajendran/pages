@@ -1,0 +1,7 @@
+apiVersion: v2
+name: teamicate
+description: A Helm chart for teamicate
+type: application
+versiong: 0.1.0
+appVersion: 0.45.2
+version: 0.1.0
